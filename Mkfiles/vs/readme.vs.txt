@@ -23,11 +23,11 @@ the Visual Studio IDE and then select:
 
 as appropriate to build the YASM binaries that you need.
 
-4. Using YASM with Visual Sudio
--------------------------------
+4. Using YASM with Visual Studio
+--------------------------------
 
 The YASM version vsyasm.exe is designed specifically for use
-with the 2010 and later versions of Visual Studio. To tell 
+with the 2019 and later versions of Visual Studio. To tell 
 Visual Studio where to find vsyasm.exe, the environment 
 variable YASMPATH can be set to the absolute path of the 
 directory in which vsyasm.exe is located (this path should
